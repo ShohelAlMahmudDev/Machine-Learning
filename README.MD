@@ -2,5 +2,5 @@
 
 ### Linear Regression
 
-**1. Simple Linear Regression**
-**1. Multiple Linear Regression**
+**1. Simple Linear Regression**\n
+**2. Multiple Linear Regression**
